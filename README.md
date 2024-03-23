@@ -1,0 +1,2 @@
+# advocacia
+primeiro repositório
